@@ -8,7 +8,7 @@ The Reaction Timer Challenge is a demo React app built to demonstrate the use of
 
 ## Project Overview
 
-![Project OverView](./public/overView.png)
+![Project OverView](./public/OverView.png)
 
 ## Features
 
