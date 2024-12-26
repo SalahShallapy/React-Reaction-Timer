@@ -1,8 +1,24 @@
-# React Reaction Timer
+<div id="top"></div>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="hhttps://react-reaction-timer.web.app/">
+    <img src="./public/logo.png" alt="Logo" height="80"  >
+  </a>
+  <h1 align="center">React-Reaction-Timer</h1>
+
+  <p align="center">
+    <a href="https://react-reaction-timer.web.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/React-Reaction-Timer/issues">Report Bug</a>
+  </p>
+</div>
 
 The Reaction Timer Challenge is a demo React app built to demonstrate the use of `useRef` for timer control and `createPortal` for modal rendering. This project provides a practical understanding of working with references and portals while offering a fun challenge to test your reaction speed.
 
@@ -26,7 +42,7 @@ The Reaction Timer Challenge is a demo React app built to demonstrate the use of
 ## Project Structure
 
 ```
-React-Investment-Calculator
+React-Reaction-Timer
 │
 │      .gitignore
 │      .vite.config
