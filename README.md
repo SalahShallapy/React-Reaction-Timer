@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="hhttps://react-reaction-timer.web.app/">
+  <a href="https://react-reaction-timer.web.app/">
     <img src="./public/logo.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">React-Reaction-Timer</h1>
